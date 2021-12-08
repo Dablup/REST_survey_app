@@ -4,9 +4,8 @@
 * Java, Spring Framework, Liquibase, PostgreSQL, Swagger <br>
 ## How to install project?
 
-<br>
 <i>In order to install this project locally, proceed with the following steps:</i>
-<br><br>
+<br>
 
 1) Clone this repository to your machine using command:<br> `git clone https://github.com/Dablup/REST_survey_app.git` <br><br>
 2) Then, you need to create a database and specify the path to it in the `application.properties`. <br> Note: Path to `application.properties`: [application.properties](/src/main/resources/application.properties)

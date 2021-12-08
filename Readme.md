@@ -8,13 +8,12 @@
 <i>In order to install this project locally, proceed with the following steps:</i>
 <br><br>
 
-1) Clone this repository to your machine using command: `git clone https://github.com/Dablup/REST_survey_app.git`
-2) Then, you need to create a database and specify the path to it in the `application.properties`. <br><br> Note: Path to `application.properties`: [application.properties](/src/main/resources/application.properties)
+1) Clone this repository to your machine using command:<br> `git clone https://github.com/Dablup/REST_survey_app.git` <br><br>
+2) Then, you need to create a database and specify the path to it in the `application.properties`. <br> Note: Path to `application.properties`: [application.properties](/src/main/resources/application.properties)
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/akvelon
 spring.datasource.username=postgres
 spring.datasource.password=root
-
 ```
 3) Using the command line, navigate to the root folder of the project and run the command:
 ```
